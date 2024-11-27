@@ -73,3 +73,14 @@ footer > p {
   background-color: #067c45;
   color: antiquewhite;
 }
+
+.con-details{
+  font-family:"Sour Gummy", serif;
+  font-size: 1rem;
+  font-weight: 500;
+  
+}
+
+textarea{
+  margin-top: 1rem;
+}
